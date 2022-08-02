@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ayushGuptaHestabit.github.io/static/css/main.1d744c34.css",
+    "main.js": "/ayushGuptaHestabit.github.io/static/js/main.c551c249.js",
+    "static/js/787.e458d2a5.chunk.js": "/ayushGuptaHestabit.github.io/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/ayushGuptaHestabit.github.io/index.html",
+    "main.1d744c34.css.map": "/ayushGuptaHestabit.github.io/static/css/main.1d744c34.css.map",
+    "main.c551c249.js.map": "/ayushGuptaHestabit.github.io/static/js/main.c551c249.js.map",
+    "787.e458d2a5.chunk.js.map": "/ayushGuptaHestabit.github.io/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d744c34.css",
+    "static/js/main.c551c249.js"
+  ]
+}
