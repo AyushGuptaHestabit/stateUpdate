@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ayushGuptaHestabit.github.io/stateUpdate/static/css/main.1d744c34.css",
-    "main.js": "/ayushGuptaHestabit.github.io/stateUpdate/static/js/main.3d8d37e8.js",
-    "static/js/787.e458d2a5.chunk.js": "/ayushGuptaHestabit.github.io/stateUpdate/static/js/787.e458d2a5.chunk.js",
-    "index.html": "/ayushGuptaHestabit.github.io/stateUpdate/index.html",
-    "main.1d744c34.css.map": "/ayushGuptaHestabit.github.io/stateUpdate/static/css/main.1d744c34.css.map",
-    "main.3d8d37e8.js.map": "/ayushGuptaHestabit.github.io/stateUpdate/static/js/main.3d8d37e8.js.map",
-    "787.e458d2a5.chunk.js.map": "/ayushGuptaHestabit.github.io/stateUpdate/static/js/787.e458d2a5.chunk.js.map"
+    "main.css": "/stateUpdate/static/css/main.1d744c34.css",
+    "main.js": "/stateUpdate/static/js/main.33c609b4.js",
+    "static/js/787.e458d2a5.chunk.js": "/stateUpdate/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/stateUpdate/index.html",
+    "main.1d744c34.css.map": "/stateUpdate/static/css/main.1d744c34.css.map",
+    "main.33c609b4.js.map": "/stateUpdate/static/js/main.33c609b4.js.map",
+    "787.e458d2a5.chunk.js.map": "/stateUpdate/static/js/787.e458d2a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d744c34.css",
-    "static/js/main.3d8d37e8.js"
+    "static/js/main.33c609b4.js"
   ]
 }
