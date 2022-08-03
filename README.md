@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo : http://localhost:3000/ayushGuptaHestabit.github.io/stateUpdate
+
 ## Available Scripts
 
-In the project directory, you can run: http://localhost:3000/ayushGuptaHestabit.github.io/stateUpdate
+In the project directory, you can run:
 
 ### `npm start`
 
