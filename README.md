@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Demo : http://localhost:3000/ayushGuptaHestabit.github.io/stateUpdate
+Demo : https://ayushguptahestabit.github.io/stateUpdate/
 
 ## Available Scripts
 
